@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f05e3c65ccea90f4194c8936912518a3, type: 3}
+  m_Name: Disparo 1
+  m_EditorClassIdentifier: 
+  prefab_proyectil: {fileID: 1196009053505993365, guid: b382428dd0382da4e96e7c70f310e4f0,
+    type: 3}
+  disparosPorSegundo: 1
+  anguloInclinacionInicial: 40
+  velocidadDeProyectil: 15
+  multiplicadorDeGravedad: 20
+  sondio: {fileID: 0}
